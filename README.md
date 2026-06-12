@@ -1,4 +1,3 @@
-# homelab-active-directory-lab
 # Active Directory Homelab
 
 ## Overview
