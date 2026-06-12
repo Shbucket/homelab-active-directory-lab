@@ -18,6 +18,7 @@ audit logging.
 ### Active Directory
 - Promoted Windows Server 2022 to a domain controller (corp.local)
 - Provisioned 1,000+ users via PowerShell, organized into OUs
+- PowerShell script for bulk user creation: [`scripts/create-ad-users.ps1`](scripts/create-ad-users.ps1)
 - Created security groups (e.g., IT-Staff) and assigned users
 - Joined Windows 10 client to the domain
 
